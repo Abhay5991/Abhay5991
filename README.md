@@ -12,6 +12,10 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay5991)
 
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhay5991)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Abhay5991)
+
 
 - 🔭 I’m currently working on Datascience mentorship program
 - 🌱 I’m currently learning Statistics and Machine Learning
